@@ -27,8 +27,8 @@ Decode predictions to classify them as "positive" or "negative."
 Results
 The model achieved the following performance metrics:
 
-Binary Cross-Entropy Loss: 13.3400
-Accuracy: 0.8666
-F1 Score: 0.8666
-Precision: 0.8667
-Recall: 0.8666
+Binary Cross-Entropy Loss: 13.8900
+Accuracy: 0.8611
+F1 Score: 0.8609
+Precision: 0.8628
+Recall: 0.8611
